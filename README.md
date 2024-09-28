@@ -8,13 +8,18 @@
 # Hi, I'm Margesh Modi
 
   </div>
-🚀 I'm diving into the open-source world and loving the collaborative spirit of the community. If you're passionate about open source, let's connect and exchange ideas!<br><br>🤝 I’m looking for help to freelance or to create solutions for real-world challenges.<br><br>💬 Ask me about Software development , Cloud or my experience in hackathons and internships.<br><br>📫 How to reach me margeshmodi93@gmail.com
+🚀 I'm diving into the open-source world and loving the collaborative spirit of the community. If you're passionate about open source, let's connect and exchange ideas!<br><br>🤝 I’m looking for help to freelance or to create solutions for real-world challenges.<br><br>💬 Ask me about Software development , Cloud or my experience in hackathons and internships.<br>
 
 ## Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/margesh-modi-a7a184228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:margeshmodi93@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail logo" />
+  </a>
 </div>
+
 
 ###
 
